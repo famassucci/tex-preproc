@@ -35,7 +35,7 @@ jupyter==1.0.0
 jupyter-client==4.4.0
 jupyter-console==5.0.0
 jupyter-core==4.2.0
-lxml==3.6.0
+lxml==4.6.2
 macholib==1.5.1
 MarkupSafe==0.23
 matplotlib==2.0.2
