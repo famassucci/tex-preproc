@@ -63,7 +63,7 @@ Pillow==4.2.1
 prompt-toolkit==1.0.9
 ptyprocess==0.5.1
 py2app==0.7.3
-Pygments==2.1.3
+Pygments==2.7.4
 PyGrace==1.0
 pyobjc-core==2.5.1
 pyobjc-framework-Accounts==2.5.1
