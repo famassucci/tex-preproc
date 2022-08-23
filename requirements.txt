@@ -43,7 +43,7 @@ mistune==0.7.3
 modulegraph==0.10.4
 mpmath==0.19
 munch==2.2.0
-nbconvert==4.2.0
+nbconvert==6.5.1
 nbformat==4.1.0
 networkx==1.11
 nltk==3.2.4
